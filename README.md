@@ -22,9 +22,9 @@ Understand customer age-group distribution.
 Track order status and fulfillment performance.
 Build an interactive Excel dashboard for decision-making.
 ## Analysis Performed
-  Orders vs Sales Analysis
-  Men vs Women Analysis
-  Order Status Analysis
-  Top 5 States by Sales
-  Age & Gender Analysis
-  Sales Channel Analysis
+  Orders vs Sales Analysis,
+  Men vs Women Analysis,
+  Order Status Analysis,
+  Top 5 States by Sales,
+  Age & Gender Analysis,
+  Sales Channel Analysis.
